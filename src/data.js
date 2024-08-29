@@ -1,4 +1,4 @@
-export const employees=[{"id":1,"first_name":"Helenelizabeth","last_name":"Avraam","email":"havraam0@flickr.com","gender":"Female","salary":958038},
+export const employeeData =[{"id":1,"first_name":"Helenelizabeth","last_name":"Avraam","email":"havraam0@flickr.com","gender":"Female","salary":958038},
     {"id":2,"first_name":"Micaela","last_name":"Birdall","email":"mbirdall1@tinypic.com","gender":"Female","salary":606098},
     {"id":3,"first_name":"Romain","last_name":"Behn","email":"rbehn2@foxnews.com","gender":"Male","salary":968002},
     {"id":4,"first_name":"Rosemaria","last_name":"Philippe","email":"rphilippe3@163.com","gender":"Female","salary":609937},

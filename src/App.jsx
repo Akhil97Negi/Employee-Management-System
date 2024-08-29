@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { employees as employeeData } from './data';
+import {  employeeData } from './data';
 import EmployeeTable from './components/EmployeeTable';
 import SearchBar from './components/SearchBar';
 import FilterOptions from './components/FilterOptions';
